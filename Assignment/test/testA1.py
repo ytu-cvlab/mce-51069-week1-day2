@@ -1,5 +1,5 @@
 import sys
-sys.path.append("../")
+sys.path.append("..")
 
 import nbimporter
 import Assignment1 as a1
